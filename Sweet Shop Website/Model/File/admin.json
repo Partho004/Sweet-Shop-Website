@@ -1,0 +1,13 @@
+[
+{
+
+  "uid": "640e04fe67289",
+  "firstName": "Admin",
+  "lastName": "User",
+  "address": "D Block",
+  "email": "adminp@gmail.com",
+  "phone": "01624599204",
+  "password": "admin1234",
+  "role": "ADMIN"
+}
+]

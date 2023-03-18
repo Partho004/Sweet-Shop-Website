@@ -1,0 +1,102 @@
+[
+  {
+    "uid": "1",
+    "name": "Roshmalai",
+    "description": "Try Balish Misti, the renowned sweet of Netrokona Cumilla",
+    "price": 450,
+    "image": "rosmali.jpg",
+    "status": "In Stock",
+    "area": "Cumilla"
+  },
+  {
+    "uid": "2",
+    "name": "Balish Misti",
+    "description": "Try Balish Misti, the renowned sweet of Netrokona",
+    "price": 300,
+    "image": "balishmisti.jpg",
+    "status": "In Stock",
+    "area": "Netrokona"
+  },
+  {
+    "uid": "3",
+    "name": "Chanar Polao",
+    "description": "Chanarpolao, the renowned sweet of Jamalpur.",
+    "price": 500,
+    "image": "chanarpolao.jpg",
+    "status": "In Stock",
+    "area": "Jamalpur"
+  },
+  {
+    "uid": "4",
+    "name": "Porabari Chamcham",
+    "description": ", The renowned sweet of Tangail",
+    "price": 420,
+    "image": "PorabariChamcha.jpg",
+    "status": "In Stock",
+    "area": "Tangail"
+  },
+  {
+    "uid": "5",
+    "name": " Parasandesh ",
+    "description": "Try Balish Misti, the renowned sweet of Netrokona",
+    "price": 300,
+    "image": "parasandesh.jpg",
+    "status": "In Stock",
+    "area": "Rangpur"
+  },
+  {
+    "uid": "6",
+    "name": "Rajbari Chamcham",
+    "description": "Try Rajbari Chamcham, the renowned sweet of Netro Rajbari",
+    "price": 430,
+    "image": "rajbari.png",
+    "status": "In Stock",
+    "area": "Rajbari"
+  },
+  {
+    "uid": "7",
+    "name": "Chanamukhi",
+    "description": "Try Chanamukhi, the renowned sweet of Brahmanbaria",
+    "price": 480,
+    "image": "Chhanamukhi.jpg",
+    "status": "In Stock",
+    "area": "Brahmanbaria"
+  },
+  {
+    "uid": "8",
+    "name": "Rasamanjari",
+    "description": "The renowned sweet of Gaibandha",
+    "price": 450,
+    "image": "rash.jpg",
+    "status": "In Stock",
+    "area": "Gaibandha"
+  },
+  {
+    "uid": "9",
+    "name": "Bogurar Special Doi",
+    "description": "Try Bogurar Special Doi, the renowned sweet of Bogura",
+    "price": 350,
+    "image": "bograr doi.jpg",
+    "status": "In Stock",
+    "area": "Bogura"
+  },
+  {
+    "uid": "10",
+    "name": "Sabitri",
+    "description": " The renowned sweet of Meherpur",
+    "price": 300,
+    "image": "sabitri.jpg",
+    "status": "In Stock",
+    "area": "Meherpur"
+  
+  },
+  {
+    "uid": "11",
+    "name": "Kachagolla",
+    "description": " The renowned sweet of Nator",
+    "price": 350,
+    "image": "kachagolla.jpg",
+    "status": "In Stock",
+    "area": "Nator"
+  }
+]

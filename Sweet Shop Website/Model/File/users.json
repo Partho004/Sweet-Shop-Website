@@ -1,0 +1,51 @@
+[
+    {
+        "uid": "640e04fe67261",
+        "firstName": "Partho",
+        "lastName": "Saha",
+        "address": "D Block",
+        "email": "partho@gmail.com",
+        "phone": "01624599204",
+        "password": "12345678",
+        "admin": false
+    },
+    {
+        "uid": "640e04fe67289",
+        "firstName": "Admin",
+        "lastName": "User",
+        "address": "D Block",
+        "email": "admin@gmail.com",
+        "phone": "01624599204",
+        "password": "partho1234",
+        "admin": true
+    },
+    {
+        "uid": "6411527cb56e8",
+        "firstName": "Shuro",
+        "lastName": "Kumar",
+        "address": "Basundhara",
+        "email": "emp@gmail.com",
+        "phone": "01777884562",
+        "password": "emp12345",
+        "role": "EMOLOYEE"
+    },
+    {
+        "uid": "640e04fe67289",
+        "firstName": "Admin",
+        "lastName": "User",
+        "address": "D Block",
+        "email": "adminp@gmail.com",
+        "phone": "01624599204",
+        "password": "admin1234",
+        "role": "ADMIN"
+    },
+    {
+        "uid": "64115e7203760",
+        "firstName": "Partho",
+        "lastName": "Kumar",
+        "address": "Basundhara 01",
+        "email": "user@gmail.com",
+        "phone": "01706698025",
+        "password": "user12345"
+    }
+]
